@@ -16,7 +16,7 @@ import {
   AuthRoute,
   RegistrationFlowRoute,
 } from "./components/auth/ProtectedRoute";
-import StoreReview from "./components/vendor/storeReview";
+import StoreReview from "./components/vendor/StoreReview";
 import EmptyStore from "./components/vendor/EmptyStore";
 import StoreCreation from "./components/vendor/StoreCreation";
 import CreateStoreForm from "./components/vendor/productForm(store)/CreateStoreForm";
